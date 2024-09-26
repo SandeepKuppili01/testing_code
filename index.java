@@ -1,5 +1,3 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("hello, world");
-    }
-}
+a=3;
+b=2;
+print(a+b)
